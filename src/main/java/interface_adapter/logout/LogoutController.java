@@ -18,5 +18,6 @@ public class LogoutController {
      */
     public void execute() {
         logoutUseCaseInteractor.execute();
+
     }
 }
